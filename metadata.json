@@ -1,0 +1,7 @@
+{
+  "name": "Dreamy Xmas",
+  "description": "A pink, dreamy, tech-infused 3D Christmas experience with AI gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
